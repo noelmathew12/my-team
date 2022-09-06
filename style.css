@@ -30,7 +30,7 @@
  *  Green Background
  **********************************************************************/
 .green{
-    background: #56B870; /* Old browsers */
+    background: #8fcf9f; /* Old browsers */
     background: -moz-linear-gradient(top, #56B870 0%, #a5c956 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#56B870), color-stop(100%,#a5c956)); /* Chrome,Safari4+ */
     background: -webkit-linear-gradient(top, #56B870 0%,#a5c956 100%); /* Chrome10+,Safari5.1+ */
@@ -126,6 +126,10 @@
 
 .green1 {
     background-color: #0F9D58;
+}
+
+.black1{
+    background-color: rgb(231, 206, 206);
 }
 
 .hContainer {
